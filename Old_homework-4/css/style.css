@@ -1,0 +1,30 @@
+.some-text {
+    font-family: Open Sans;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+}
+.Strikethrough {
+    font-family: serif;
+    text-align: left;
+}
+.Not-a-trait {
+    font-family: serif;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 200;
+}
+.j {
+    text-shadow: 1px 1px 1px rgb(129, 27, 129);
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    word-spacing: 30px;
+}
+.h {
+    text-decoration: underline;
+    text-decoration-style: double;
+    letter-spacing: 5px;
+
+}
