@@ -1,0 +1,67 @@
+html {
+    font-family: Ubuntu, sans-serif;
+    font-weight: 400;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+h1, h2, p {
+    margin: 0;
+}
+
+.container {
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.article {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+.article-title {
+    max-width: 596px;
+    margin-bottom: 40px;
+    font-family: Oswald;
+    font-weight: 600;
+    line-height: 115%;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.article-title-large {
+    font-size: 40px;
+}
+
+.article-title-medium {
+    font-size: 36px;
+}
+
+.article-text {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color:#535151;
+}
+
+.article-img,
+.article-video {
+    width: 100%;
+}
+
+.article-list {
+    margin-top: 0;
+    padding-left: 14px;
+}
+
+.article-item {
+    margin-bottom: 12px;
+}
+
+.article-video {
+    margin-bottom: 40px;
+}
