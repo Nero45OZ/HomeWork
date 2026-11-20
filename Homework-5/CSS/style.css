@@ -29,7 +29,7 @@ h1, h2, p {
     font-weight: 600;
     line-height: 115%;
     text-transform: uppercase;
-    color: #000;
+    color: #2c332f;
 }
 
 .article-title-large {
@@ -45,7 +45,11 @@ h1, h2, p {
     font-weight: 400;
     font-size: 16px;
     line-height: 130%;
-    color:#535151;
+    color: #535755;
+}
+
+.article-mb {
+    margin-bottom: 80px;
 }
 
 .article-img,
